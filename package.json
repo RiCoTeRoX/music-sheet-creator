@@ -1,0 +1,17 @@
+{
+  "name": "music-sheet-creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RiCoTeRoX/music-sheet-creator.git",
+  "author": "Danny Ralde <danny.ralde@etermax.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  }
+}
